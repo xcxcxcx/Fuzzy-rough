@@ -1,0 +1,16 @@
+﻿  upper_approximations.cpp
+  split.cpp
+  similarity.cpp
+  lower_approximations.cpp
+  loaddata.cpp
+  getcol.cpp
+  frnntestmain.cpp
+c:\users\cccccc\desktop\0325-填补\分类_frnntest(5.14)\frnntest\frnntest\frnntestmain.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+  frnn.cpp
+  filesearch.cpp
+  Get_Label.cpp
+  cmp.cpp
+  calmembership.cpp
+  正在生成代码...
+  LINK : 没有找到 C:\Users\cccccc\Desktop\0325-填补\分类_frnntest(5.14)\frnntest\Debug\frnntest.exe 或上一个增量链接没有生成它；正在执行完全链接
+  frnntest.vcxproj -> C:\Users\cccccc\Desktop\0325-填补\分类_frnntest(5.14)\frnntest\Debug\frnntest.exe
